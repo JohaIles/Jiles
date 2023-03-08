@@ -26,3 +26,6 @@ Con experiencia e **iniciativa** para desarrollar proyectos que conduzcan al _**
 npmd = 'npm run dev' / npms = 'npm start' / rm = 'trash'
 ```
 # Hola, soy Johanna Iles 
+😊 Dispuesta a 🔥 trabajar, poner en práctica mis conocimientos y habilidades en pro del crecimiento y desarrollo. Además de ser una persona segura, dinámica, recursiva, con actitud positiva frente al aprendizaje continuo. Con experiencia e iniciativa para desarrollar proyectos que conduzcan al crecimiento personal y laboral
+
+Clase #2 Bootcamp
