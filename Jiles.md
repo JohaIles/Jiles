@@ -29,4 +29,6 @@ npmd = 'npm run dev' / npms = 'npm start' / rm = 'trash'
 😊 Dispuesta a 🔥 trabajar, poner en práctica mis conocimientos y habilidades en pro del crecimiento y desarrollo. Además de ser una persona segura, dinámica, recursiva, con actitud positiva frente al aprendizaje continuo. Con experiencia e iniciativa para desarrollar proyectos que conduzcan al crecimiento personal y laboral
 Clase #2 Bootcamp
 Johanna Iles Ortiz 
-ramas 12
+ramas 12 prueba 12 
+clase 2 
+prueba, prueba 12 Git 
